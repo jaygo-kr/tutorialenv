@@ -2,7 +2,7 @@
   <div v-if="authState !== 'signedin'">You are signed out.</div>
     <amplify-authenticator>
       <div v-if="authState === 'signedin' && user">
-        <div>Hello, {{user.username}}</div>
+        <div>Hello~, {{user.username}}</div>
       </div>
       
       <img alt="Vue logo" src="./assets/logo.png">
