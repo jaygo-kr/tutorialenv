@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "tutorialenvd5123e30": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

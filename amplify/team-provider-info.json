@@ -36,6 +36,11 @@
       "StackName": "amplify-tutorialenv-dev-143752",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:877227585956:stack/amplify-tutorialenv-dev-143752/8a749000-79d2-11eb-9ebd-02994659d8f4",
       "AmplifyAppId": "d3iubjctxxzyk5"
+    },
+    "categories": {
+      "auth": {
+        "tutorialenvd5123e30": {}
+      }
     }
   }
 }
